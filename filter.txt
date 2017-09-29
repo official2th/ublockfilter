@@ -1,3 +1,16 @@
-! coin miner
-coin-hive.com
-coinhive.com
+[Adblock Plus 2.0]
+! Title: 2TH AdsBlock Filter
+! Author: 2TH | https://2th.me
+! Version: 1.0
+! Expires: 1 days
+! License: https://creativecommons.org/licenses/by-sa/4.0/
+! Homepage: https://github.com/official2th/ublockfilter/
+! Support: https://github.com/official2th/ublockfilter/issues
+! WritingRules: https://adblockplus.org/filters
+! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
+! RegExpVisualizer http://www.regexper.com/
+! ##### ##### ##### !
+! ##### coin miner ##### !
+
+||coin-hive.com^
+||coinhive.com^
