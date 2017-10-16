@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 2TH AdsBlock Filter
 ! Author: 2TH | https://2th.me
-! Version: 1.0
+! Version: 3
 ! Expires: 1 days
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
 ! Homepage: https://github.com/official2th/ublockfilter/
@@ -15,3 +15,18 @@
 ||coin-hive.com^
 ||coinhive.com^
 ||jsecoin.com^
+||minero.pw^
+||hashforcash.us^
+
+! https://github.com/keraf/NoCoin/blob/master/src/blacklist.txt
+
+||static.reasedoper.pw^
+||mataharirama.xyz^
+||listat.biz^
+||lmodr.biz^
+||minecrunch.co^
+||minemytraffic.com^
+||crypto-loot.com^
+||ppoi.org^
+||coinerra.com^
+||coin-have.com^
